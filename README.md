@@ -21,12 +21,27 @@ I love transforming raw datasets into clear stories and actionable conclusions, 
 
 ### 📊 Featured Projects
 
+#### 🏎️ Formula 1 Performance Prediction System
+- **Goal:** Predict Formula 1 lap times by analyzing driver performance, tyre strategy, race conditions, and team performance using historical race data.
+- **Tech:** Python (Pandas, NumPy, Scikit-learn, XGBoost), FastF1 API, Matplotlib, Seaborn, Joblib
+- **Data Size:** 190,914 lap records, 19 engineered features (2018–2025 seasons)
+- **Results:** Developed and compared four regression models, with **XGBoost** achieving the best performance **(R²: 0.962, MAE: 0.742 sec, RMSE: 1.021 sec)**. Feature engineering incorporating race strategy, tyre degradation, and historical driver/team pace significantly improved prediction accuracy.
+- 🔗 **Repo:** https://github.com/yash-pawar2/F1-Performance-Prediction-System
+
 #### 🛍️ Retail Transaction Dashboard
 - **Goal:** Analyze seasonal trends & customer purchase behavior  
 - **Tech:** Power BI, Excel  
 - **Data Size:** 1.3M rows, 13 columns  
 - **Results:** Identified top revenue categories & peak sale periods  
 - 🔗 Repo: https://github.com/yash-pawar2/Retail-Transaction-Dashboard
+
+#### 🏠 India Rental Market Analysis & Price Prediction
+- **Goal:** Understand urban housing trends and predict monthly rent using structural and financial indicators 
+- **Tech:** Python (Pandas, Scikit-learn), Matplotlib, Seaborn
+- **Data Size:** 13,910 rows, 7 features  
+-**Results:** Built an interpretable Linear Regression model explaining **86%** of price variance **(R²: 0.86, MAE: ₹36,820)** while uncovering a 0.91 correlation between security deposits and rent
+- 🔗 Repo: https://github.com/yash-pawar2/India_Rental_Market_Analysis_-_Price_Prediction
+
 
 #### 🐚 Abalone Age Prediction & Analysis
 - **Goal:** Predict age using biological features  
@@ -35,12 +50,6 @@ I love transforming raw datasets into clear stories and actionable conclusions, 
 **Results:** Achieved **83.97% pseudo accuracy** using Random Forest with improved regression performance (**MAE: 1.57**, **R²: 0.53**)  
 - 🔗 Repo: https://github.com/yash-pawar2/Abalone_Age_Prediction
 
-#### 🏠 India Rental Market Analysis & Price Prediction
-- **Goal:** Understand urban housing trends and predict monthly rent using structural and financial indicators 
-- **Tech:** Python (Pandas, Scikit-learn), Matplotlib, Seaborn
-- **Data Size:** 13,910 rows, 7 features  
--**Results:** Built an interpretable Linear Regression model explaining **86%** of price variance **(R²: 0.86, MAE: ₹36,820)** while uncovering a 0.91 correlation between security deposits and rent
-- 🔗 Repo: https://github.com/yash-pawar2/India_Rental_Market_Analysis_-_Price_Prediction
 ---
 
 ### 🛠️ Skills & Technologies
@@ -49,7 +58,7 @@ I love transforming raw datasets into clear stories and actionable conclusions, 
 `Python` • `R` • `SQL` • `C++` • `HTML5` • `CSS3`
 
 #### Data Science Libraries:
-`Pandas` • `NumPy` •`SCiPy`•`SeaBorn` • `Matplotlib` • `Scikit-learn` • `BeautifulSoup`
+`Pandas` • `NumPy` •`SCiPy`•`SeaBorn` • `Matplotlib` • `Scikit-learn` • `Xgboost` • `BeautifulSoup`
 
 #### Tools:
 `Power BI` • `Tableau` • `Excel` • `Git` • `Jupyter Notebook`
