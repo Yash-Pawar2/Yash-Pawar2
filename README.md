@@ -48,6 +48,16 @@ Data Cleaning • Statistical Modeling • Hypothesis Testing • Data Visualiza
 English • Hindi • Marathi
 
 ---
+## 📊 Statistics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yash-pawar2&theme=tokyonight" width="49%" />
+  <img src="https://leetcard.jacoblin.cool/Yash_Pawar2?theme=dark&font=Karma" />
+</p>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash-pawar2&theme=tokyo-night)
+
+---
 
 ### 🏆 Certifications
 - **Deloitte Data Analytics Job Simulation** — Forage *(Oct 2025)*
@@ -77,15 +87,6 @@ Oct 2025 – Mar 2026
 
 - Collaborated with cross-functional teams on educational content and technical workshops
 - Built analytical thinking, teamwork, and communication skills through project-based work
----
-## 📊 Statistics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yash-pawar2&theme=tokyonight" width="49%" />
-  <img src="https://leetcard.jacoblin.cool/Yash_Pawar2?theme=dark&font=Karma" />
-</p>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash-pawar2&theme=tokyo-night)
 
 ---
 
