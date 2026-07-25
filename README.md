@@ -12,10 +12,11 @@ I love transforming raw datasets into clear stories and actionable conclusions, 
 
 🌱 Currently exploring: SQL to strengthen my database and data analysis skills.
 
-📍 Pune, Maharashtra, India  
-📫 Email: **yash.r.pawar246@gmail.com**  
-🔗 LinkedIn: **www.linkedin.com/in/yash-pawar2**  
-🌐 GitHub Portfolio: **https://github.com/yash-pawar2**
+
+[![Location](https://img.shields.io/badge/Location-Pune,%20India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Pune,India)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Pawar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-pawar2)
+[![Gmail](https://img.shields.io/badge/Gmail-yash.r.pawar246%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash.r.pawar246@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-yash--pawar2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash-pawar2)
 
 ---
 
