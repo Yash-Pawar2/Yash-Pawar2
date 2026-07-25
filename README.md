@@ -52,7 +52,7 @@ English • Hindi • Marathi
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yash-pawar2&theme=tokyonight" width="49%" />
-  <img src="https://leetcard.jacoblin.cool/Yash_Pawar2?theme=dark&font=Karma" />
+  <img src="https://leetcard.jacoblin.cool/Yash_Pawar2?theme=dark&font=Karma&hide=ranking" />
 </p>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash-pawar2&theme=tokyo-night)
