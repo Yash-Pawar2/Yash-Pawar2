@@ -19,36 +19,14 @@ I love transforming raw datasets into clear stories and actionable conclusions, 
 
 ---
 
-### 📊 Featured Projects
+## 📊 Featured Projects
 
-#### 🏎️ Formula 1 Performance Prediction System
-- **Goal:** Predict Formula 1 lap times by analyzing driver performance, tyre strategy, race conditions, and team performance using historical race data.
-- **Tech:** Python (Pandas, NumPy, Scikit-learn, XGBoost), FastF1 API, Matplotlib, Seaborn, Joblib
-- **Data Size:** 190,914 lap records, 19 engineered features (2018–2025 seasons)
-- **Results:** Developed and compared four regression models, with **XGBoost** achieving the best performance **(R²: 0.962, MAE: 0.742 sec, RMSE: 1.021 sec)**. Feature engineering incorporating race strategy, tyre degradation, and historical driver/team pace significantly improved prediction accuracy.
-- 🔗 **Repo:** https://github.com/yash-pawar2/F1-Performance-Prediction-System
-
-#### 🛍️ Retail Transaction Dashboard
-- **Goal:** Analyze seasonal trends & customer purchase behavior  
-- **Tech:** Power BI, Excel  
-- **Data Size:** 1.3M rows, 13 columns  
-- **Results:** Identified top revenue categories & peak sale periods  
-- 🔗 Repo: https://github.com/yash-pawar2/Retail-Transaction-Dashboard
-
-#### 🏠 India Rental Market Analysis & Price Prediction
-- **Goal:** Understand urban housing trends and predict monthly rent using structural and financial indicators 
-- **Tech:** Python (Pandas, Scikit-learn), Matplotlib, Seaborn
-- **Data Size:** 13,910 rows, 7 features  
-- **Results:** Built an interpretable Linear Regression model explaining **86%** of price variance **(R²: 0.86, MAE: ₹36,820)** while uncovering a 0.91 correlation between security deposits and rent
-- 🔗 Repo: https://github.com/yash-pawar2/India_Rental_Market_Analysis_-_Price_Prediction
-
-
-#### 🐚 Abalone Age Prediction & Analysis
-- **Goal:** Predict age using biological features  
-- **Tech:** Python, ML algorithms  
-- **Data Size:** 4,177 rows, 9 features  
-- **Results:** Achieved **83.97% pseudo accuracy** using Random Forest with improved regression performance (**MAE: 1.57**, **R²: 0.53**)  
-- 🔗 Repo: https://github.com/yash-pawar2/Abalone_Age_Prediction
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🏎️ **[Formula 1 Performance Prediction System](https://github.com/yash-pawar2/F1-Performance-Prediction-System)** | Built an end-to-end machine learning system to predict Formula 1 lap times using historical race data, driver performance, tyre strategy, and race conditions. Compared multiple regression models, with **XGBoost** achieving **R²: 0.962, MAE: 0.742 sec, RMSE: 1.021 sec** on **190,914** lap records. | Python, Pandas, NumPy, Scikit-learn, XGBoost, FastF1 API, Matplotlib, Seaborn |
+| 🛍️ **[Retail Transaction Dashboard](https://github.com/yash-pawar2/Retail-Transaction-Dashboard)** | Designed an interactive Power BI dashboard to analyze customer purchasing behavior, seasonal sales trends, and revenue performance across **1.3M** transaction records. | Power BI, Excel |
+| 🏠 **[India Rental Market Analysis & Price Prediction](https://github.com/yash-pawar2/India_Rental_Market_Analysis_-_Price_Prediction)** | Developed a Linear Regression model to predict monthly rent, achieving **R²: 0.86** while identifying key market trends and financial relationships. | Python, Pandas, Scikit-learn, Matplotlib, Seaborn |
+| 🐚 **[Abalone Age Prediction & Analysis](https://github.com/yash-pawar2/Abalone_Age_Prediction)** | Built regression models to estimate abalone age from biological measurements, with **Random Forest** achieving the best predictive performance. | Python, Pandas, Scikit-learn, Matplotlib |
 
 ---
 
