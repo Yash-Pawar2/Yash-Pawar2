@@ -39,7 +39,7 @@ I love transforming raw datasets into clear stories and actionable conclusions, 
 - **Goal:** Understand urban housing trends and predict monthly rent using structural and financial indicators 
 - **Tech:** Python (Pandas, Scikit-learn), Matplotlib, Seaborn
 - **Data Size:** 13,910 rows, 7 features  
--**Results:** Built an interpretable Linear Regression model explaining **86%** of price variance **(R²: 0.86, MAE: ₹36,820)** while uncovering a 0.91 correlation between security deposits and rent
+- **Results:** Built an interpretable Linear Regression model explaining **86%** of price variance **(R²: 0.86, MAE: ₹36,820)** while uncovering a 0.91 correlation between security deposits and rent
 - 🔗 Repo: https://github.com/yash-pawar2/India_Rental_Market_Analysis_-_Price_Prediction
 
 
@@ -47,7 +47,7 @@ I love transforming raw datasets into clear stories and actionable conclusions, 
 - **Goal:** Predict age using biological features  
 - **Tech:** Python, ML algorithms  
 - **Data Size:** 4,177 rows, 9 features  
-**Results:** Achieved **83.97% pseudo accuracy** using Random Forest with improved regression performance (**MAE: 1.57**, **R²: 0.53**)  
+- **Results:** Achieved **83.97% pseudo accuracy** using Random Forest with improved regression performance (**MAE: 1.57**, **R²: 0.53**)  
 - 🔗 Repo: https://github.com/yash-pawar2/Abalone_Age_Prediction
 
 ---
