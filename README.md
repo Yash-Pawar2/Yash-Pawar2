@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Yash Pawar  
-🎯 Data Enthusiast | MIT-WPU | SQL | Python | Power BI
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=600&color=FFC107&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Yash+Pawar;🎓+Applied+Statistics+%26+Data+Analytics+Student;📊+Excel+%7C+Power+BI+%7C+Python+%7C+SQL;🤖+Machine+Learning+Enthusiast;🚀+Building+Data-Driven+Solutions)](https://git.io/typing-svg)
+
 ---
 
 
