@@ -72,14 +72,17 @@ English • Hindi • Marathi
 ---
 
 ### 🏆 Certifications
-- **Deloitte Data Analytics Job Simulation**  — Forage *(Oct 2025)*
-  - Completed hands-on simulation creating Tableau dashboards and Excel-based business analysis for client scenarios
-- **Tata Data Visualisation Job Simulation**  — Forage *(Nov 2025)*
-  - Developed executive-level data visualizations and insights presentations for strategic decision-making 
-  _(Insights & Dashboard Reporting)_
- - **Statistics for Data Science** — LinkedIn Learning *(Oct 2024)*
-   - Covered probability distributions, hypothesis testing,
-and confidence intervals with hands-on Python labs.
+- **Deloitte Data Analytics Job Simulation** — Forage *(Oct 2025)*
+  - Created Tableau dashboards and performed Excel-based business analysis to deliver actionable client insights.
+- **Tata Data Visualisation Job Simulation** — Forage *(Nov 2025)*
+  - Developed executive-level data visualizations and insight-driven presentations for strategic decision-making.
+- **Statistics for Data Science** — LinkedIn Learning *(Oct 2024)*
+  - Learned probability distributions, hypothesis testing, and confidence intervals through hands-on Python exercises.
+- **Commonwealth Bank Introduction to Data Science Job Simulation** — Forage *(Jul 2026)*
+  - Built data engineering pipelines, applied data anonymization techniques, and designed database solutions for data-driven decision-making.
+- **Data Labeling Job Simulation** — Forage Academy *(Jul 2026)*
+  - Labeled customer support data for intent, sentiment, and PII while ensuring annotation quality, consistency, and ethical AI practices.
+
 ---
 
 ### 🏛️ Experience  
