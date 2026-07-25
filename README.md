@@ -100,15 +100,21 @@ Oct 2025 – Mar 2026
 - Collaborated with cross-functional teams on educational content and technical workshops
 - Built analytical thinking, teamwork, and communication skills through project-based work
 ---
+## 📊 Statistics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yash-pawar2&theme=tokyonight" width="49%" />
+  <img src="https://leetcard.jacoblin.cool/Yash_Pawar2?theme=dark&font=Karma" />
+</p>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash-pawar2&theme=tokyo-night)
+
+---
 
 ### 📚 Education
 **MIT World Peace University**    
 Bachelor of Science — Applied Statistics & Data Analytics  
 (2024–2028)
-
----
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yash-pawar2&show_icons=true&theme=default" alt="yash-pawar2" /> </p>
 
 ---
 
