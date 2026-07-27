@@ -40,7 +40,7 @@ I love transforming raw datasets into clear stories and actionable conclusions, 
 `Pandas` • `NumPy` •`SCiPy`•`SeaBorn` • `Matplotlib` • `Scikit-learn` • `Xgboost` • `BeautifulSoup`
 
 #### Tools:
-`Power BI` • `Tableau` • `Excel` • `Git` • `Jupyter Notebook`
+`Power BI` • `Tableau` • `Excel` • `Git` • `Jupyter Notebook`• `Github`
 
 #### Concepts:
 Data Cleaning • Statistical Modeling • Hypothesis Testing • Data Visualization • Machine Learning
