@@ -34,7 +34,14 @@ I love transforming raw datasets into clear stories and actionable conclusions, 
 ### 🛠️ Skills & Technologies
 
 #### Programming Languages:
-`Python` • `R` • `SQL` • `C++` • `HTML5` • `CSS3`
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" height="45" alt="R"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+</p>
 
 #### Data Science Libraries:
 `Pandas` • `NumPy` •`SCiPy`•`SeaBorn` • `Matplotlib` • `Scikit-learn` • `Xgboost` • `BeautifulSoup`
