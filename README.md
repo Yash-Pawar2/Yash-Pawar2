@@ -124,8 +124,10 @@ Mathematics Department, MIT World Peace University — *(Oct 2025 – Mar 2026)*
 
 ### 📚 Education
 **MIT World Peace University**    
-Bachelor of Science — Applied Statistics & Data Analytics  
+Bachelor of Science — Applied Statistics & Data Analytics 
 (2024–2028)
+
+**CGPA:** 8.86/ 10
 
 ---
 
