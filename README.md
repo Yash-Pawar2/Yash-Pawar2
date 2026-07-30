@@ -35,25 +35,51 @@ I love transforming raw datasets into clear stories and actionable conclusions, 
 
 #### Programming Languages:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" height="45" alt="R"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-F29111?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-9C033A?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-663399?style=for-the-badge&logo=css&logoColor=white" />
 </p>
 
 #### Data Science Libraries:
-`Pandas` • `NumPy` •`SCiPy`•`SeaBorn` • `Matplotlib` • `Scikit-learn` • `Xgboost` • `BeautifulSoup`
+<p align="left">
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-XGBoost-DC143C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-BeautifulSoup-43B02A?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 #### Tools:
-`Power BI` • `Tableau` • `Excel` • `Git` • `Jupyter Notebook`• `Github`
+<p align="left">
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 #### Concepts:
-Data Cleaning • Statistical Modeling • Hypothesis Testing • Data Visualization • Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/-Data%20Cleaning-00A98F?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Statistical%20Modeling-6366F1?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hypothesis%20Testing-E91E63?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Data%20Visualization-F59E0B?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-8B5CF6?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
 
 #### Languages:
-English • Hindi • Marathi
+<p align="left">
+  <img src="https://img.shields.io/badge/-English-007ACC?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hindi-FF9933?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Marathi-8B5CF6?style=for-the-badge&logo=googletranslate&logoColor=white" />
+</p>
 
 ---
 ## 📊 Statistics
