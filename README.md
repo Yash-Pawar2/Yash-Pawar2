@@ -10,7 +10,7 @@ I am a data-driven learner and aspiring researcher who enjoys extracting meaning
 
 I love transforming raw datasets into clear stories and actionable conclusions, using analytical tools and visualizations to support smarter decisions and impactful outcomes.
 
-🌱 Currently exploring: SQL and Deep learning to strengthen my database and data analysis skills.
+🌱 Currently exploring: Deep Learning and advanced SQL query optimization.
 
 
 [![Location](https://img.shields.io/badge/Location-Pune,%20India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Pune,India)
@@ -94,7 +94,7 @@ I love transforming raw datasets into clear stories and actionable conclusions, 
       <img src="https://streak-stats.demolab.com/?user=Yash-Pawar2&theme=tokyonight&v=2" width="100%" />
     </td>
     <td align="center">
-      <img src="https://leetcard.jacoblin.cool/Yash_Pawar2?theme=dark&font=Karma&hide=ranking" width="100%" />
+      <img src="https://leetcard.jacoblin.cool/Yash_Pawar2?colors=1a1b27,24283b,c0caf5,565f89,7aa2f7,bb9af7,7dcfff,9ece6a&font=Karma&hide=ranking" width="100%" />
     </td>
   </tr>
 </table>
