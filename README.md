@@ -84,20 +84,25 @@ I love transforming raw datasets into clear stories and actionable conclusions, 
 ---
 ## 📊 Statistics
 
+<table align="center">
+  <tr>
+    <td align="center"><b>Streak</b></td>
+    <td align="center"><b>Contribution Ranking</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=Yash-Pawar2&theme=tokyonight&v=2" width="100%" />
+    </td>
+    <td align="center">
+      <img src="https://leetcard.jacoblin.cool/Yash_Pawar2?theme=dark&font=Karma&hide=ranking" width="100%" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  
-  **Streak**
-  
-  <img src="https://streak-stats.demolab.com/?user=Yash-Pawar2&theme=tokyonight&v=2" width="49%" />
-
-  **Contribution Ranking**
-  
-  <img src="https://leetcard.jacoblin.cool/Yash_Pawar2?theme=dark&font=Karma&hide=ranking" />
+  <b>Recent Activity</b><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Pawar2&theme=tokyo-night&hide_border=true&area=true" width="90%" />
 </p>
-
-**Recent Activity**
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Pawar2&theme=tokyo-night)
 
 ---
 
