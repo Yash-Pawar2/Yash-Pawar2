@@ -85,9 +85,17 @@ I love transforming raw datasets into clear stories and actionable conclusions, 
 ## 📊 Statistics
 
 <p align="center">
+  
+  **Streak**
+  
   <img src="https://streak-stats.demolab.com/?user=Yash-Pawar2&theme=tokyonight&v=2" width="49%" />
+
+  **Contribution Ranking**
+  
   <img src="https://leetcard.jacoblin.cool/Yash_Pawar2?theme=dark&font=Karma&hide=ranking" />
 </p>
+
+**Recent Activity**
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Pawar2&theme=tokyo-night)
 
